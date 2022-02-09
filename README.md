@@ -1,5 +1,5 @@
 ### Hazel Adrian
-
+Freelance full-stack engineer
 Here are some skills:
 - 🔭 I’m Developer Fullstack:
   -Git y programming  
