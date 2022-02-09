@@ -1,6 +1,6 @@
 <h1>Hazel Adrian</h1>
 <h2>Freelance full-stack engineer</h2>
-Here are some skills:
+<h3>Here are some skills:</h3>
 <body>
 <section>- 🔭 I’m Developer Fullstack:
   -Git y programming  
